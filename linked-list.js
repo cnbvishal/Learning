@@ -1,5 +1,4 @@
 // Linked List in Javascript
-
 class Node {
     constructor(data) {
       this.data = data;
@@ -132,4 +131,3 @@ class Node {
   linkedlist.removeAt(2);
   
   linkedlist.print();
-  console.log("size = " + linkedlist.size());
